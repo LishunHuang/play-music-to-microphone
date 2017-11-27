@@ -1,4 +1,4 @@
-# Play Musci to Mircophone with Python
+# Play Music to Mircophone with Python
 
 This Python program allows users to play .wav raw music file through virtual cable, and it works for Windows.
 
